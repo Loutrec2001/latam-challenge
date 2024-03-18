@@ -1,0 +1,8 @@
+memory-profiler==0.61.0
+import time
+import pandas 
+import datetime
+import memory_profiler
+import collections
+import regex 
+import emoji
